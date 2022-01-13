@@ -8,3 +8,9 @@
 
 #Treasure Hunt Game
 
+First print There is fire in front of you Do you want to move ahead or get a open a fire extinguiher ?
+Take input : if input given is  move ahead then print game over . 
+if input given given is fire extinguisher then print on the screen You have come in front of a road which has 2 paths left and right ? Where do you want to go .
+Take input again if input is left print gave over you lose else print whats told in the image shared in group and keep continuing doing.
+
+
