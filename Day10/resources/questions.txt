@@ -1,0 +1,12 @@
+1.Reverse a string
+2. Check if a string is palindrome or not
+3. Remove a letter from  a string from ith location
+4. check if a word exists in a string or not
+5. Uppercase  a string 
+6. check if a string starts with given word 
+7. Find the sum of all ascii values of a string
+8. Split strings on basis of a given word
+9. Find out number of vowels in a string
+10.Frequency of every letter in a String
+11.Count number of words available in a String
+12.Find the longest word inside a String
